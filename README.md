@@ -1,5 +1,4 @@
-# CODSOFT
-INTERNSHIP
+# CODSOFT - INTERNSHIP
 Customer Churn Prediction using Machine Learning
 
 This project, completed during my CodSoft internship, focuses on predicting customer churn, helping businesses identify and retain at-risk customers.
