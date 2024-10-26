@@ -1,5 +1,5 @@
 # CODSOFT - INTERNSHIP
-Customer Churn Prediction using Machine Learning
+1. Customer Churn Prediction using Machine Learning
 
 This project, completed during my CodSoft internship, focuses on predicting customer churn, helping businesses identify and retain at-risk customers.
 
@@ -19,7 +19,7 @@ Results
 This model is achieved with key insights into factors affecting churn, providing actionable data for customer retention strategies.
 
 
-Credit Card Fraud Detection using Machine Learning
+2. Credit Card Fraud Detection using Machine Learning
 
 This project, developed during my CodSoft internship, aims to identify fraudulent credit card transactions using machine learning.
 
@@ -39,7 +39,7 @@ Results
 The selected model achieved high accuracy in detecting fraud, showcasing the importance of machine learning in enhancing financial security.
 
 
-Spam SMS Detection using Machine Learning
+3. Spam SMS Detection using Machine Learning
 
 This project, completed during my CodSoft internship, aims to identify spam messages in SMS communications using machine learning.
 
